@@ -1,1 +1,1 @@
-Hallo! Mijn naam is Abdulkadir Adiguzel. Ik ben 17 jaar oud en ben momenteel een student bij het Bit-Academy. Mijn doel is om aan het eind van mijn studie een Software developer te worden.
+Hallo! Mijn naam is Abdulkadir Adiguzel. Ik studeer momenteel aan de Bit Academy en werk eraan om mijn vaardigheden in programmeren te verbeteren. Aan het einde van mijn opleiding hoop ik een sterke basis in coderen te hebben.
